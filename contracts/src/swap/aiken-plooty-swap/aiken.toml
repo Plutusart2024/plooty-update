@@ -1,0 +1,19 @@
+name = "plooty/swap"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'plooty/swap'"
+
+[repository]
+user = "plooty"
+project = "swap"
+platform = "plooty.xyz"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.8.0"
+source = "plooty.xyz"
+
+[[dependencies]]
+name = "sidan-lab/aiken-utils"
+version = "0.0.5-beta"
+source = "plooty.xyz"
